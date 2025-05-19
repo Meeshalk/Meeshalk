@@ -1,6 +1,6 @@
 
 <h4 align="center">Hi! 👋 <br> I'm Meeshal Kumar.</h4>
-<p align="center">A full stack software developer based in 🇮🇳. I wrote my first program in school about 17 years ago, knowing very little about how it all works. 10 years of professional experience, yet I'm still learning new stuff every day since my first program 😂.</p>
+<p align="center">A full stack software developer based in 🇮🇳. I wrote my first program in school about 17 years ago, knowing very little about how it all works. After working 10 years professinally, I'm still learning new stuff every day since my first program 😂.</p>
 <p align="center">
   <p align="center">👨‍💻 Full Stack Developer/Backend Lead at <a href="https://crossfund.app" target="_blank">CrossFund Pte. Ltd.</a></li>
   <p align="center">⌨️ Files I daily dance with: <code>.php</code>, <code>.js</code>, <code>.ts</code>, <code>.jsx</code>, <code>.tsx</code>, <code>.sql</code>, <code>.sqlite</code>, <code>.json</code>, etc.</li>
@@ -21,7 +21,7 @@
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-gules-alpha1.vercel.app/api/?username=Meeshalk&show_icons=true&count_private=true&count_private=true&theme=gotham&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats-gules-alpha1.vercel.app/api/top-langs?username=meeshalk&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,ejs,html,css,less,blade,scss,CMake,Shell,Hack,Ruby">
+  <img height="50%" width="auto" src ="https://github-readme-stats-gules-alpha1.vercel.app/api/top-langs?username=meeshalk&layout=compact&size_weight=0.4&count_weight=0.6&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,ejs,html,css,less,blade,scss,CMake,Swift,Hack,Ruby">
   <img src ="https://github-readme-streak-stats-six-ebon.vercel.app/?user=meeshalk&theme=gotham&hide_border=true&background=FFFFFF00">
   <br>
 </p>
