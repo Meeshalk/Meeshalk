@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats-gules-alpha1.vercel.app/api/?username=Meeshalk&show_icons=true&count_private=true&count_private=true&theme=gotham&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats-gules-alpha1.vercel.app/api/top-langs?username=meeshalk&layout=compact&size_weight=0.4&count_weight=0.6&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,ejs,html,css,less,blade,scss,CMake,Swift,Hack,Ruby">
-  <img src ="https://github-readme-streak-stats-six-ebon.vercel.app/?user=meeshalk&theme=gotham&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://readme-stats-meeshalk.vercel.app/api/?username=Meeshalk&show_icons=true&count_private=true&count_private=true&theme=gotham&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://readme-stats-meeshalk.vercel.app/api/top-langs?username=meeshalk&layout=compact&size_weight=0.4&count_weight=0.6&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,ejs,html,css,less,blade,scss,CMake,Swift,Hack,Ruby">
+  <img src ="https://readme-streak-meeshalk.vercel.app/?user=meeshalk&theme=gotham&hide_border=true&background=FFFFFF00">
   <br>
 </p>
