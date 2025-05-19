@@ -1,6 +1,6 @@
 
 <h4 align="center">Hi! 👋 <br> I'm Meeshal Kumar.</h4>
-<p align="center">A full stack software developer based in 🇮🇳. I first started coding when I was in school, almost 17 years ago and professionally doing it for past 10 years or so.</p>
+<p align="center">A full stack software developer based in 🇮🇳. I wrote my first program in school about 17 years ago, knowing very little about how it all works. 10 years of professional experience, yet I'm still learning new stuff every day since my first program 😂.</p>
 <p align="center">
   <p align="center">👨‍💻 Full Stack Developer/Backend Lead at <a href="https://crossfund.app" target="_blank">CrossFund Pte. Ltd.</a></li>
   <p align="center">⌨️ Files I daily dance with: <code>.php</code>, <code>.js</code>, <code>.ts</code>, <code>.jsx</code>, <code>.tsx</code>, <code>.sql</code>, <code>.sqlite</code>, <code>.json</code>, etc.</li>
