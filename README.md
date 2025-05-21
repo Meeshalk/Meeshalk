@@ -4,7 +4,7 @@
 <p align="center">
   <p align="center">👨‍💻 Full Stack Developer/Backend Lead at <a href="https://crossfund.app" target="_blank">CrossFund Pte. Ltd.</a></li>
   <p align="center">⌨️ Files I daily dance with: <code>.php</code>, <code>.js</code>, <code>.ts</code>, <code>.jsx</code>, <code>.tsx</code>, <code>.sql</code>, <code>.sqlite</code>, <code>.json</code>, etc.</li>
-  <p align="center">♥️ to travel & explore local/tribal comminities, thier culture, food, & languages, etc.</li>
+  <p align="center">♥️ to travel & explore local/tribal communities, thier culture, food, & languages, etc.</li>
   <p align="center">💬 Lets <code>talk</code> about <strong>design patterns</strong>, <strong>algorithms</strong>, <strong>startup ideas</strong>, <strong>movies/pop-culture</strong>, <strong>sports: 🏏 ⚽ 🏸 ⚾</strong></li>
 </p>
 
